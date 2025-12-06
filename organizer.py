@@ -68,7 +68,7 @@ def organize_directory(source_dir, dest_dir):
         return
 
     if not filenames:
-        print("Source folder is empty. No action required.")
+        print("Source folder is empty. No action is required.")
         return
 
     # Loop to process each file
